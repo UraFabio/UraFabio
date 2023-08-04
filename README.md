@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 Atualmente estou estagiando como Desenvolvedor Back-End
-- 🌱 Estudando C e Python
+- 🌱 Estudando HTML/CSS & JavaScript
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UraFabio&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
