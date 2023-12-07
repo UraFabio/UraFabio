@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 Desenvolvedor Full-stack
-- 🌱 Estudando Node.js
+- 🌱 Estudando C# e Vue.js
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UraFabio&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
