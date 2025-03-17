@@ -1,11 +1,10 @@
-<h2 align="left">Hello 😎! My name is Fabio and I'm a Full-Stack developer</h2>
+<!-- <h2 align="left">Hello 😎! My name is Fabio and I'm a Full-Stack developer</h2> -->
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=urafabio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urafabio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=urafabio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
